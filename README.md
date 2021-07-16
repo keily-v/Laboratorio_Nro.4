@@ -29,11 +29,9 @@
    
  2. MARCO TEÓRICO
 
-
     <p align="center">
   <img src="https://user-images.githubusercontent.com/84594486/125877902-3f5e7747-ca93-4942-98e5-fa3265f8a7af.png">
    </p>
-
 
  3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -48,7 +46,6 @@
     | 1   | Resistor de 820 Ω  |
     | 1  | Resistor de 470 Ω   |
     | 1  | Protoboard    |
-    
     
     
    3.1. Armar el circuito que se muestra en la figura 4.1.
@@ -67,7 +64,11 @@
    <p align="center">
   <img src="https://user-images.githubusercontent.com/84594486/125886787-fcec6e78-d4bb-4a8d-b179-83710a1196e6.png">
    </p>
-    
+   
+   <p align="center">
+  <img src="https://user-images.githubusercontent.com/84594486/125891356-5e3bcc27-f4d8-442c-9ed9-698ef44affe4.png">
+   </p>
+   
    3.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
    
    <p align="center">
@@ -81,14 +82,17 @@
    Calculos Analíticos
 
    <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/125885808-830620e9-2ee8-45f2-b33f-85a435af48bd.png">
+  <img src="https://user-images.githubusercontent.com/84594486/125888058-5597142e-f2cf-4806-afe7-8b12c29453e7.png">
+   </p>
+   
+   <p align="center">
+  <img src="https://user-images.githubusercontent.com/84594486/125888143-4ac7f652-6dc2-4512-aa48-72452cea79d8.png">
    </p>
 
    <p align="center">
-  <img src="https://user-images.githubusercontent.com/84594486/125885687-0c4472c7-8643-40e2-a3b0-f7c409d00ccc.png">
+  <img src="https://user-images.githubusercontent.com/84594486/125888220-ea913595-bea9-420d-b6db-02bea579e869.png">
    </p>
-
-  
+ 
  4. CALCULO DEL ERROR
 
  
